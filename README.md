@@ -1,1 +1,0 @@
-# 16-Bit-RISC-Architecture
